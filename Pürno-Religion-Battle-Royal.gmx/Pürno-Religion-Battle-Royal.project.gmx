@@ -6,7 +6,27 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\Bartelomeus</sprite>
+    <sprites name="Apostel">
+      <sprites name="Apostel_1">
+        <sprite>sprites\Apostel_1</sprite>
+        <sprite>sprites\Apostel_1_L</sprite>
+        <sprite>sprites\Apostel_1_R</sprite>
+      </sprites>
+      <sprites name="Apostel_2">
+        <sprite>sprites\Apostel_2</sprite>
+        <sprite>sprites\Apostel_2_L</sprite>
+        <sprite>sprites\Apostel_2_R</sprite>
+      </sprites>
+      <sprites name="Apostel_3">
+        <sprite>sprites\Apostel_3</sprite>
+        <sprite>sprites\Apostel_3_L</sprite>
+        <sprite>sprites\Apostel_3_R</sprite>
+      </sprites>
+    </sprites>
+    <sprites name="Power_ups">
+      <sprite>sprites\Power_up_Doorns</sprite>
+      <sprite>sprites\Power_Up_weiwater</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
