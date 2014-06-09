@@ -27,9 +27,27 @@
       <sprite>sprites\Power_up_Doorns</sprite>
       <sprite>sprites\Power_Up_weiwater</sprite>
     </sprites>
+    <sprite>sprites\Arrow_spr</sprite>
+    <sprite>sprites\Wall_spr</sprite>
+    <sprites name="Bosses">
+      <sprite>sprites\Boss_Jew_spr</sprite>
+    </sprites>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\Apostel_1_obj</object>
+    <object>objects\Arrow_obj</object>
+    <object>objects\Wall_obj</object>
+  </objects>
+  <timelines name="timelines">
+    <timeline>timelines\fire_sequence</timeline>
+  </timelines>
+  <rooms name="rooms">
+    <room>rooms\Lv__1</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
