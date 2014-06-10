@@ -31,7 +31,6 @@
     <sprite>sprites\Wall_spr</sprite>
     <sprites name="Bosses">
       <sprite>sprites\Boss_Jew_spr</sprite>
-      <sprite>sprites\Jodenster_spr</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -42,12 +41,9 @@
     <object>objects\Apostel_1_obj</object>
     <object>objects\Arrow_obj</object>
     <object>objects\Wall_obj</object>
-    <object>objects\Boss_Jew_obj</object>
-    <object>objects\Jew_star</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\fire_sequence</timeline>
-    <timeline>timelines\Jew_sequence</timeline>
   </timelines>
   <rooms name="rooms">
     <room>rooms\Lv__1</room>
