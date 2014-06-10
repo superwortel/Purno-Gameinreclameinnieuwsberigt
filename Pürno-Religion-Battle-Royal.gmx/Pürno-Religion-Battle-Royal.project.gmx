@@ -35,6 +35,8 @@
       <sprite>sprites\Boss_Jew_spr</sprite>
       <sprite>sprites\Jodenster_spr</sprite>
     </sprites>
+    <sprite>sprites\Life_plus</sprite>
+    <sprite>sprites\Life_min</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -47,6 +49,7 @@
     <object>objects\Boss_Jew_obj</object>
     <object>objects\Jew_star</object>
     <object>objects\Health</object>
+    <object>objects\lives</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\fire_sequence</timeline>
