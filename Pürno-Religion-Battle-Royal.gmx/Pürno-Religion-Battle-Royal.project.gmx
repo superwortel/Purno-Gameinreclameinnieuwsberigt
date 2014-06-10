@@ -9,6 +9,7 @@
     <sprites name="Apostel">
       <sprites name="Apostel_1">
         <sprite>sprites\Apostel_1</sprite>
+        <sprite>sprites\Apostel_1_U</sprite>
         <sprite>sprites\Apostel_1_L</sprite>
         <sprite>sprites\Apostel_1_R</sprite>
       </sprites>
