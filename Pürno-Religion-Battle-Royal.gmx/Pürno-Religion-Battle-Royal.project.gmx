@@ -44,6 +44,7 @@
     <object>objects\Wall_obj</object>
     <object>objects\Boss_Jew_obj</object>
     <object>objects\Jew_star</object>
+    <object>objects\Health</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\fire_sequence</timeline>
