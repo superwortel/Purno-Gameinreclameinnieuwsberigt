@@ -37,6 +37,8 @@
     </sprites>
     <sprite>sprites\Life_plus</sprite>
     <sprite>sprites\Life_min</sprite>
+    <sprite>sprites\Romein</sprite>
+    <sprite>sprites\pijl</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -50,12 +52,16 @@
     <object>objects\Jew_star</object>
     <object>objects\Health</object>
     <object>objects\lives</object>
+    <object>objects\romein_obj</object>
+    <object>objects\pijl_obj</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\fire_sequence</timeline>
     <timeline>timelines\Jew_sequence</timeline>
+    <timeline>timelines\romein_pijl</timeline>
   </timelines>
   <rooms name="rooms">
+    <room>rooms\lv_romein</room>
     <room>rooms\lv_1</room>
   </rooms>
   <help>
